@@ -1,12 +1,6 @@
 ### Sobre mi:
 Mi nombre es Juan Pablo Terán, soy estudiante de ingenieria de sistemas, voy en octavo semestre y a lo largo de la carrera he logrado familiarizarme con distintas tecnologias, frameworks y lenguajes de programacion, tales como:
 
-Html,Css,JavaScript,Python,MySql,Vue,Kotlin,MongoDb,Firebase
-
-### Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teran1416&theme=transparent)](https://git.io/streak-stats)
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -36,3 +30,9 @@ Html,Css,JavaScript,Python,MySql,Vue,Kotlin,MongoDb,Firebase
 </div>
 
 ###
+
+### Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teran1416&theme=transparent)](https://git.io/streak-stats)
+
+
+
