@@ -7,15 +7,7 @@ Html,Css,JavaScript,Python,MySql,Vue,Kotlin,MongoDb,Firebase
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teran1416&theme=transparent)](https://git.io/streak-stats)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teran1416/teran1416/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teran1416/teran1416/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/teran1416/teran1416/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
