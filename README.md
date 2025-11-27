@@ -36,5 +36,6 @@ Mi nombre es Juan Pablo Terán, soy estudiante de ingenieria de sistemas, voy en
 ### Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teran1416&theme=transparent)](https://git.io/streak-stats)
 
-
+Contacto: 3167871096
+Correo: jupate2004@gmail.com
 
